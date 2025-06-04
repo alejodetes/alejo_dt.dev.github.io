@@ -51,6 +51,7 @@
 ## <img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/icons/projects.gif?raw=true" width=25px> **Proyectos Destacados**
 | Proyecto | Descripción | Tecnologías | Enlace |
 |----------|-------------|-------------|--------|
+| **Mini Proyectos en C++** | Colección de algoritmos y estructuras de datos | C++17, STL | [Repositorio](https://github.com/alejodetes/cpp) |
 | **Las 5 Etapas del Duelo** | Juego narrativo en Unity | Unity, C# | [Repositorio](https://github.com/alejodetes/Las-5-etapas-del-duelo) |
 | **Diseños para "Pa tu Boquita"** | Ilustraciones para un bar español | Inkscape, Medibang | [Repositorio](https://github.com/alejodetes/pa-tu-boquita-designs) |
 | **Portafolio Web** | Mi sitio web personal | HTML, CSS, JS | [Repositorio](https://github.com/alejodetes/web) |
