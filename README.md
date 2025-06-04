@@ -10,7 +10,7 @@
 <br>
 
 ## 🤓 ☝ **Sobre mí**
-<img align="right" src="https://github.com/alejodetes/username/blob/main/assets/avatar.png?raw=true" width="250" style="border-radius: 50%; border: 3px solid #7B3BE1;">
+<img align="right" src="https://github.com/alejodetes/alejo_dt.dev.github.io/blob/main/avatar.png" width="250" style="border-radius: 50%; border: 3px solid #7B3BE1;">
 
 ¡Apasionado creador digital con un pie en el código y otro en el arte! Me especializo en:
 
