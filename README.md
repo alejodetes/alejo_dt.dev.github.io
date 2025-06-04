@@ -53,13 +53,16 @@
 |----------|-------------|-------------|--------|
 | **Mini Proyectos en C++** | Colección de algoritmos y estructuras de datos | C++17, STL | [Repositorio](https://github.com/alejodetes/cpp) |
 | **Las 5 Etapas del Duelo** | Juego narrativo en Unity | Unity, C# | [Repositorio](https://github.com/alejodetes/Las-5-etapas-del-duelo) |
-| **Diseños para "Pa tu Boquita"** | Ilustraciones para un bar español | Inkscape, Medibang | [Repositorio](https://github.com/alejodetes/pa-tu-boquita-designs) |
+| **Diseños para "Pa tu Boquita"** | Ilustraciones para un bar español | Inkscape, Medibang | [Ir a Galería](#galeria) |
 | **Portafolio Web** | Mi sitio web personal | HTML, CSS, JS | [Repositorio](https://github.com/alejodetes/web) |
 | **Arte Digital** | Mis ilustraciones personales | Medibang, Photoshop | [Instagram](https://www.instagram.com/alejo_dt_arts) |
 
 <br><br>
 
-## 🎨 **Galería de Trabajos**
+## 🎨 <a id="galeria"></a> **Galería de Trabajos** <!-- Anchor añadido -->
+<div align="center">
+  <table>
+    ## 🎨 **Galería de Trabajos**
 <div align="center">
   <table>
     <tr>
@@ -88,6 +91,8 @@
         </a>
       </td>
     </tr>
+  </table>
+</div>
   </table>
 </div>
 
