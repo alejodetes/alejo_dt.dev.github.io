@@ -14,10 +14,18 @@
   <img align="right" src="https://github.com/alejodetes/alejo_dt.dev.github.io/blob/main/assets/careto.png?raw=true" width=300px>
 </picture>
 
-- 🕹️ **Desarrollador de videojuegos** en Unity y Web
-- 💻 **Programador C++/JavaScript** con [15+ proyectos](https://github.com/alejodetes/cpp)
-- ✏️ **Ilustrador digital** - Portfolio en [Instagram](https://www.instagram.com/alejo_dt_arts)
-- 📫 ¿Colaboración? **alejo14312024@gmail.com**
+Desarrollador multidisciplinario especializado en:
+
+- 🎮 **Desarrollo de experiencias interactivas** (Unity + Web)
+- ✨ **Creación de arte digital** para juegos y medios visuales
+- ⚡ **Programación eficiente** en C++ y JavaScript
+
+**Mis focos principales:**
+- Implementación de mecánicas de juego innovadoras
+- Optimización de performance en proyectos interactivos
+- Diseño de assets visuales con personalidad única
+
+📫 **Contacto profesional:** alejo14312024@gmail.com
 
 <br><br>
 
@@ -43,9 +51,9 @@
 ## <img src="https://github.com/alejodetes/alejo_dt.dev.github.io/blob/main/assets/icons/projects.gif?raw=true" width=25px> **Proyectos Destacados**
 | Proyecto | Descripción | Tecnologías | Enlace |
 |----------|-------------|-------------|--------|
-| **Las 5 etapas del duelo** | Juego narrativo en Unity | Unity, C# | [Repositorio](https://github.com/alejodetes/Las-5-etapas-del-duelo) |
-| **Juegos Web** | Colección de juegos en navegador | HTML5, JavaScript | [Repositorio](https://github.com/alejodetes/web) |
-| **Mini programas C++** | Soluciones algorítmicas | C++ | [Repositorio](https://github.com/alejodetes/cpp) |
+| **Las 5 etapas del duelo** | Juego narrativo con decisiones impactantes | Unity, C# | [Repositorio](https://github.com/alejodetes/Las-5-etapas-del-duelo) |
+| **Experimentos Web** | Juegos interactivos para navegador | HTML5, JavaScript | [Repositorio](https://github.com/alejodetes/web) |
+| **Algoritmos C++** | Soluciones de estructuras de datos avanzadas | C++ | [Repositorio](https://github.com/alejodetes/cpp) |
 
 <br><br>
 
