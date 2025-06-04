@@ -65,18 +65,6 @@
 
 <br><br>
 
-## <img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/icons/gallery.gif?raw=true" width=25px> **Galería de Proyectos**
-<p align="center">
-  <a href="https://github.com/alejodetes/Las-5-etapas-del-duelo">
-    <img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/showcase/unity-game.gif?raw=true" width=45%>
-  </a>
-  <a href="https://www.instagram.com/alejo_dt_arts">
-    <img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/showcase/art-sample.png?raw=true" width=45%>
-  </a>
-</p>
-
-<br><br>
-
 ## <img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/icons/contact.gif?raw=true" width=25px> **Contacto**
 <p align="center">
   <a href="https://github.com/alejodetes">
