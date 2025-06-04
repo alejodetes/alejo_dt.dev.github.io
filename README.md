@@ -15,7 +15,7 @@
 ¡Apasionado creador digital con un pie en el código y otro en el arte! Me especializo en:
 
 - 🎮 **Desarrollo de juegos**: Creador de [Las 5 Etapas del Duelo](https://github.com/alejodetes/Las-5-etapas-del-duelo)
-- 🖌️ **Diseño gráfico**: Ilustraciones para el bar español ["Pa tu Boquita"][Ir a Galería](#galeria)
+- 🖌️ **Diseño gráfico**: Ilustraciones para el bar español ["Pa tu Boquita"][Ir a Galería](#galeria
 - 💻 **Programación creativa**: Desarrollador de [mini-programas en C++](https://github.com/alejodetes/cpp)
 - 🌐 **Desarrollo web**: Mi [portafolio personal](https://github.com/alejodetes/web)
 - ✏️ **Arte digital**: Ilustraciones en [Instagram](https://www.instagram.com/alejo_dt_arts)
