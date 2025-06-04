@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>¡Hola! Soy Alejo Dev 🎮👨‍💻</b>
+  <b>¡Hola! Soy Alejo_dt Dev 🎮👨‍💻</b>
 </h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
