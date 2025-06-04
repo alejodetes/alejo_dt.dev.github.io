@@ -11,7 +11,7 @@
 
 ## 🤓 ☝ **Sobre mí**
 <picture> 
-  <img align="right" src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/gifs/unity-dev.gif?raw=true" width=300px>
+ <img align="right" src="https://github.com/alejodetes/username/blob/main/images/avatar.png?raw=true" width="250" style="border-radius: 50%;">
 </picture>
 
 ¡Apasionado creador digital con un pie en el código y otro en el arte! Me especializo en:
