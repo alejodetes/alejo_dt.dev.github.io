@@ -1,78 +1,89 @@
-<h1 align="center"><b>Hola, soy Alejo Dev 👋</b></h1>
+<h1 align="center">
+  <b>¡Hola! Soy Alejo Dev ✨</b>
+</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF731&center=true&width=600&height=50&lines=Desarrollador+Front-End+%7C+Diseñador+UI%2FUX;Apasionado+por+la+tecnolog%C3%ADa+y+el+aprendizaje+continuo;Siempre+creando+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&width=600&height=50&lines=Desarrollador+de+C%2B%2B+%7C+Ilustrador+Gráfico;Amante+del+arte+y+la+lógica;Creatividad+++Código+=+Solución+Única&size=22" alt="Typing SVG">
+  </a>
 </p>
 
 <br>
 
-## <picture><img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/icons/code.gif?raw=true" width=30px></picture> **Sobre mí**
-<picture> <img align="right" src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/gifs/developer.gif?raw=true" width=250px></picture>
+## <picture><img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/icons/paintbrush.gif?raw=true" width=30px></picture> **Sobre mí**
+<picture> 
+  <img align="right" src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/gifs/coder-artist.gif?raw=true" width=300px>
+</picture>
 
-- 🚀 **Desarrollador Front-End** con experiencia en React y JavaScript.
-- 🎨 **Diseñador UI/UX** enfocado en experiencias intuitivas.
-- 📚 Autodidacta y siempre aprendiendo nuevas tecnologías.
-- 🌍 Mi sitio web: [alejo-dt.dev](https://alejo-dt.dev) (¡próximamente!).
-- 📫 Contáctame: **tu-email@ejemplo.com**.
+- 💻 **Programador en C++** con enfoque en algoritmos y desarrollo de software.
+- � **Ilustrador gráfico** especializado en [*menciona tu estilo o herramientas, ej: diseño vectorial, Photoshop*].
+- 🎨 Combino arte y código para crear soluciones visuales innovadoras.
+- 📚 Autodidacta | *"El arte es programar y el código es mi lienzo"*.
+- 📫 ¿Colaboración? Escríbeme: **tu-email@ejemplo.com**.
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/icons/tech.gif?raw=true" width=25px> **Habilidades Técnicas**
+<br><br>
+
+## <img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/icons/tech-stack.gif?raw=true" width=25px> **Mis Herramientas**
 <p align="center">
 
-- **Lenguajes**:
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **Lenguajes**:  
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) *(opcional)*
 
-- **Front-End**:
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- **Ilustración**:  
+  ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+  ![Procreate](https://img.shields.io/badge/Procreate-000000?style=for-the-badge&logo=procreate&logoColor=white) *(ajusta tus herramientas)*
 
-- **Herramientas**:
+- **Software**:  
+  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </p>
 
 <br><br>
 
 ## <img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/icons/projects.gif?raw=true" width=25px> **Proyectos Destacados**
-| Proyecto | Descripción | Tecnologías | Demo |
-|----------|-------------|-------------|------|
-| **[Portafolio](https://alejo-dt.dev)** | Mi sitio personal | React, Tailwind | [Live](https://alejo-dt.dev) |
-| **Task Manager** | App de tareas | JavaScript, Firebase | [Repo](https://github.com/alejo-dt/task-manager) |
+| Proyecto | Descripción | Tecnologías | Enlace |
+|----------|-------------|-------------|--------|
+| **Motor Gráfico en C++** | Renderizado básico con OpenGL | C++, OpenGL | [Repo](https://github.com/alejo-dt/opengl-engine) |
+| **Portafolio de Ilustración** | Galería de mis trabajos artísticos | HTML/CSS, JavaScript | [Live](https://alejo-dt.dev/art) |
 
 <br><br>
 
-## <img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/icons/stats.gif?raw=true" width=25px> **Estadísticas de GitHub**
+## <img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/icons/stats.gif?raw=true" width=25px> **Estadísticas**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejo-dt&show_icons=true&theme=dark" width=45%>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejo-dt&layout=compact&theme=dark" width=45%>
+  <img src="https://github-readme-stats.vercel.app/api?username=alejo-dt&show_icons=true&theme=radical" width=45%>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejo-dt&layout=compact&theme=radical&hide=html,css" width=45%>
 </div>
 
 <br><br>
 
-## <img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/icons/contact.gif?raw=true" width=30px> **Contacto**
+## <img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/icons/gallery.gif?raw=true" width=25px> **Galería de Arte** *(opcional)*
+<p align="center">
+  <img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/art/sample1.png?raw=true" width=30%>
+  <img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/art/sample2.png?raw=true" width=30%> 
+</p>
+
+<br><br>
+
+## <img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/icons/contact.gif?raw=true" width=25px> **Contacto**
 <p align="center">
   <a href="https://linkedin.com/in/alejo-dt">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://twitter.com/alejo_dt">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  <a href="https://instagram.com/tu-usuario">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="mailto:tu-email@ejemplo.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
-<br>
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alejo-dt&label=Visitas&color=blueviolet" alt="alejo-dt" />
+  <img src="https://komarev.com/ghpvc/?username=alejo-dt&label=Visitas&color=blueviolet" alt="Contador de visitas">
 </p>
-
----
