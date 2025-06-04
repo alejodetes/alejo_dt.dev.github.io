@@ -68,7 +68,7 @@
       <!-- Juego Unity -->
       <td align="center" width="33%">
         <a href="https://github.com/alejodetes/Las-5-etapas-del-duelo">
-          <img src="https://github.com/alejodetes/Las-5-etapas-del-duelo/raw/main/screenshots/gameplay1.png?raw=true" width="100%" style="border-radius: 10px; border: 3px solid #7B3BE1;">
+          <img src="https://github.com/alejodetes/alejo_dt.dev.github.io/blob/main/unity-game.gif.gif" width="100%" style="border-radius: 10px; border: 3px solid #7B3BE1;">
           <br>
           <b>Las 5 Etapas del Duelo</b>
         </a>
