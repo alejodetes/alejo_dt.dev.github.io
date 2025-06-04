@@ -11,21 +11,13 @@
 
 ## <picture><img src="https://github.com/alejodetes/alejo_dt.dev.github.io/blob/main/assets/icons/palette.gif?raw=true" width=30px></picture> **Sobre mí**
 <picture> 
-  <img align="right" src="https://github.com/alejodetes/alejo_dt.dev.github.io/blob/main/assets/careto.png?raw=true" width=300px>
+  <img align="right" src="https://github.com/alejodetes/alejo_dt.dev.github.io/blob/main/assets/gifs/code-artist.gif?raw=true" width=300px>
 </picture>
 
-Desarrollador multidisciplinario especializado en:
-
-- 🎮 **Desarrollo de experiencias interactivas** (Unity + Web)
-- ✨ **Creación de arte digital** para juegos y medios visuales
-- ⚡ **Programación eficiente** en C++ y JavaScript
-
-**Mis focos principales:**
-- Implementación de mecánicas de juego innovadoras
-- Optimización de performance en proyectos interactivos
-- Diseño de assets visuales con personalidad única
-
-📫 **Contacto profesional:** alejo14312024@gmail.com
+- 🕹️ **Desarrollador de videojuegos** en Unity: [Las 5 etapas del duelo](https://github.com/alejodetes/Las-5-etapas-del-duelo)
+- 💻 **Programador C++** con [15+ mini-programas](https://github.com/alejodetes/cpp)
+- ✏️ **Ilustrador digital** - Mira mi trabajo en [Instagram](https://www.instagram.com/alejo_dt_arts)
+- 📫 ¿Colaboración? **alejo14312024@gmail.com**
 
 <br><br>
 
@@ -34,15 +26,18 @@ Desarrollador multidisciplinario especializado en:
 
 - **Desarrollo de Juegos**:  
   ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 - **Programación**:  
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 - **Arte Digital**:  
   ![Medibang](https://img.shields.io/badge/MediBang-000000?style=for-the-badge&logo=medibang-paint&logoColor=white)
   ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+- **Herramientas**:  
+  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </p>
 
@@ -51,9 +46,8 @@ Desarrollador multidisciplinario especializado en:
 ## <img src="https://github.com/alejodetes/alejo_dt.dev.github.io/blob/main/assets/icons/projects.gif?raw=true" width=25px> **Proyectos Destacados**
 | Proyecto | Descripción | Tecnologías | Enlace |
 |----------|-------------|-------------|--------|
-| **Las 5 etapas del duelo** | Juego narrativo con decisiones impactantes | Unity, C# | [Repositorio](https://github.com/alejodetes/Las-5-etapas-del-duelo) |
-| **Experimentos Web** | Juegos interactivos para navegador | HTML5, JavaScript | [Repositorio](https://github.com/alejodetes/web) |
-| **Algoritmos C++** | Soluciones de estructuras de datos avanzadas | C++ | [Repositorio](https://github.com/alejodetes/cpp) |
+| **Las 5 etapas del duelo** | Juego narrativo en Unity | Unity, C# | [Repositorio](https://github.com/alejodetes/Las-5-etapas-del-duelo) |
+| **Mini programas C++** | Soluciones a problemas algorítmicos | C++ | [Repositorio](https://github.com/alejodetes/cpp) |
 
 <br><br>
 
