@@ -62,7 +62,6 @@
 ## 🎨 <a id="galeria"></a> **Galería de Trabajos** <!-- Anchor añadido -->
 <div align="center">
   <table>
-    ## 🎨 **Galería de Trabajos**
 <div align="center">
   <table>
     <tr>
