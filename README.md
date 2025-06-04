@@ -17,9 +17,9 @@
 - 💻 **Programador C++** enfocado en resolver problemas con algoritmos eficientes
 - 🎮 **Desarrollador Unity** principiante apasionado por los videojuegos 2D/3D
 - ✏️ **Artista digital** especializado en ilustración con Medibang Pro
-- 🖌️ Vendo mis diseños en [Redbubble](https://www.redbubble.com/people/tu-usuario/shop)
+- 🖌️ Vendo mis diseños en [Redbubble](https://www.redbubble.com/people/alejoeldetes/shop?asc=u)
 - 📚 Siempre aprendiendo nuevas técnicas de programación y arte digital
-- 🏆 Orgulloso creador de 15+ mini-programas en C++ (¡revisa mis repos!)
+- 🏆 15+ mini-programas en C++ (¡[revísalos aquí](https://github.com/alejodetes/cpp)!)
 
 <br><br>
 
@@ -53,46 +53,50 @@
 ## <img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/icons/projects.gif?raw=true" width=25px> **Mis Proyectos**
 | Proyecto | Descripción | Tecnologías | Enlace |
 |----------|-------------|-------------|--------|
-| **Mini Programas C++** | 15+ soluciones a problemas diversos | C++, Algoritmos | [Repositorio](https://github.com/alejo-dt/cpp-miniprograms) |
-| **Juego 2D Unity** | Plataformero con mecánicas únicas | Unity, C# | [En desarrollo] |
-| **Portafolio de Arte** | Mis ilustraciones digitales | Medibang Pro | [Instagram](https://www.instagram.com/tu-usuario) |
+| **Mini Programas C++** | Soluciones a problemas diversos | C++, Algoritmos | [Repositorio](https://github.com/alejodetes/cpp) |
+| **Juego 2D Unity** | Plataformero con mecánicas únicas | Unity, C# | [Próximamente] |
+| **Portafolio de Arte** | Mis ilustraciones digitales | Medibang Pro | [Instagram](https://www.instagram.com/alejo_dt_arts) |
 
 <br><br>
 
 ## <img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/icons/stats.gif?raw=true" width=25px> **Estadísticas**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejo-dt&show_icons=true&theme=midnight-purple" width=45%>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejo-dt&layout=compact&theme=midnight-purple&hide=html,css" width=45%>
+  <img src="https://github-readme-stats.vercel.app/api?username=alejodetes&show_icons=true&theme=midnight-purple" width=45%>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejodetes&layout=compact&theme=midnight-purple&hide=html,css" width=45%>
 </div>
 
 <br><br>
 
 ## <img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/icons/gallery.gif?raw=true" width=25px> **Mis Ilustraciones**
 <p align="center">
-  <a href="https://www.instagram.com/tu-usuario">
+  <a href="https://www.instagram.com/alejo_dt_arts">
     <img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/art/illustration1.jpg?raw=true" width=30%>
     <img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/art/illustration2.jpg?raw=true" width=30%>
+  </a>
+  <br>
+  <a href="https://www.redbubble.com/people/alejoeldetes/shop?asc=u">
+    <img src="https://img.shields.io/badge/Ver_más_en_Redbubble-FF3E34?style=for-the-badge&logo=redbubble&logoColor=white">
   </a>
 </p>
 
 <br><br>
 
-## <img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/icons/contact.gif?raw=true" width=25px> **¿Quieres contactarme?**
+## <img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/icons/contact.gif?raw=true" width=25px> **Contacto**
 <p align="center">
-  <a href="https://www.instagram.com/tu-usuario">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://www.instagram.com/alejo_dt_arts">
+    <img src="https://img.shields.io/badge/Instagram-alejo__dt__arts-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://www.redbubble.com/people/tu-usuario/shop">
-    <img src="https://img.shields.io/badge/Redbubble-FF3E34?style=for-the-badge&logo=redbubble&logoColor=white">
+  <a href="mailto:alejo14312024@gmail.com">
+    <img src="https://img.shields.io/badge/Email-alejo14312024@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="mailto:tu-email@ejemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://github.com/alejodetes">
+    <img src="https://img.shields.io/badge/GitHub-alejodetes-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alejo-dt&label=Perfil+visitado&color=7B3BE1" alt="Contador de visitas">
-  <img src="https://img.shields.io/badge/Hecho+con+❤️-y+Medibang_Pro-7B3BE1" alt="Firma">
+  <img src="https://komarev.com/ghpvc/?username=alejodetes&label=Perfil+visitado&color=7B3BE1" alt="Contador de visitas">
+  <img src="https://img.shields.io/badge/Hecho+con+❤️+y+Medibang_Pro-7B3BE1" alt="Firma">
 </p>
