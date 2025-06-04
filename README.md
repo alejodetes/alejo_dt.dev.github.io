@@ -76,7 +76,7 @@
       <!-- Diseños Pa tu Boquita -->
       <td align="center" width="33%">
         <a href="https://github.com/alejodetes/pa-tu-boquita-designs">
-          <img src="https://github.com/alejodetes/pa-tu-boquita-designs/raw/main/preview.jpg?raw=true" width="100%" style="border-radius: 10px; border: 3px solid #7B3BE1;">
+          <img src="https://github.com/alejodetes/alejo_dt.dev.github.io/blob/main/BANNER%20%2060X%20300.png" width="100%" style="border-radius: 10px; border: 3px solid #7B3BE1;">
           <br>
           <b>Diseños para "Pa tu Boquita"</b>
         </a>
