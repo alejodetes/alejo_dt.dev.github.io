@@ -84,7 +84,7 @@
       <!-- Arte Digital -->
       <td align="center" width="33%">
         <a href="https://www.instagram.com/alejo_dt_arts">
-          <img src="https://github.com/alejodetes/art-portfolio/raw/main/illustration1.jpg?raw=true" width="100%" style="border-radius: 10px; border: 3px solid #7B3BE1;">
+          <img src="https://github.com/alejodetes/alejo_dt.dev.github.io/blob/main/art-sample.png.png" width="100%" style="border-radius: 10px; border: 3px solid #7B3BE1;">
           <br>
           <b>Ilustración Digital</b>
         </a>
