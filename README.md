@@ -16,15 +16,15 @@
 
 ¡Apasionado creador digital con un pie en el código y otro en el arte! Me especializo en:
 
-- 🎮 **Desarrollo de juegos**: Creador de [Las 5 Etapas del Duelo](https://github.com/alejodetes/Las-5-etapas-del-duelo), un juego narrativo que explora emociones humanas a través de mecánicas únicas
+- 🎮 **Desarrollo de juegos**: Creador de [Las 5 Etapas del Duelo](https://github.com/alejodetes/Las-5-etapas-del-duelo), un juego narrativo que explora emociones humanas a través de mecánicas y herramientas digitales
 - 💻 **Programación creativa**: Desarrollador de [mini-programas en C++](https://github.com/alejodetes/cpp) que resuelven problemas con enfoques innovadores
-- 🌐 **Desarrollo web**: Creador de mi [portafolio personal](https://github.com/alejodetes/web) donde muestro mis proyectos más destacados
-- ✨ **Arte digital**: Ilustrador activo en [Instagram](https://www.instagram.com/alejo_dt_arts) donde fusiono tecnología y arte
+- 🌐 **Desarrollo web**: Creador de mi [portafolio personal](https://github.com/alejodetes/web) donde muestro mis proyectos 
+- ✨ **Arte digital**: Ilustrador en [Instagram](https://www.instagram.com/alejo_dt_arts) 
 - 🛍️ **Diseños únicos**: Vendo mis creaciones artísticas en [Redbubble](https://www.redbubble.com/people/alejoeldetes/shop)
 
-**Mi filosofía**: Creo que la tecnología y el arte deben trabajar juntos para contar historias memorables. Cada línea de código es un pincelazo en el lienzo digital.
-
 📫 **Colaboraciones**: ¿Tienes un proyecto interesante? ¡Hablemos! [alejo14312024@gmail.com](mailto:alejo14312024@gmail.com)
+
+**Mi filosofía**: Creo que la tecnología y el arte deben trabajar juntos para contar historias memorables. Cada línea de código es un pincelazo en el lienzo digital.
 
 <br><br>
 
