@@ -14,18 +14,21 @@
   <img align="right" src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/gifs/unity-dev.gif?raw=true" width=300px>
 </picture>
 
-- 🕹️ **Desarrollador Unity** creador de [Las 5 Etapas del Duelo](https://github.com/alejodetes/Las-5-etapas-del-duelo)
-- 💻 **Programador C++** con [mini-programas](https://github.com/alejodetes/cpp)
-- 🌐 Desarrollador web [Portafolio](https://github.com/alejodetes/web)
-- ✏️ **Artista digital** en [Instagram](https://www.instagram.com/alejo_dt_arts)
-- 🛍️ Vendo mis diseños en [Redbubble](https://www.redbubble.com/people/alejoeldetes/shop)
-- 📫 Colaboraciones: [alejo14312024@gmail.com](mailto:alejo14312024@gmail.com)
+¡Apasionado creador digital con un pie en el código y otro en el arte! Me especializo en:
+
+- 🎮 **Desarrollo de juegos**: Creador de [Las 5 Etapas del Duelo](https://github.com/alejodetes/Las-5-etapas-del-duelo), un juego narrativo que explora emociones humanas a través de mecánicas únicas
+- 💻 **Programación creativa**: Desarrollador de [mini-programas en C++](https://github.com/alejodetes/cpp) que resuelven problemas con enfoques innovadores
+- 🌐 **Desarrollo web**: Creador de mi [portafolio personal](https://github.com/alejodetes/web) donde muestro mis proyectos más destacados
+- ✨ **Arte digital**: Ilustrador activo en [Instagram](https://www.instagram.com/alejo_dt_arts) donde fusiono tecnología y arte
+- 🛍️ **Diseños únicos**: Vendo mis creaciones artísticas en [Redbubble](https://www.redbubble.com/people/alejoeldetes/shop)
+
+**Mi filosofía**: Creo que la tecnología y el arte deben trabajar juntos para contar historias memorables. Cada línea de código es un pincelazo en el lienzo digital.
+
+📫 **Colaboraciones**: ¿Tienes un proyecto interesante? ¡Hablemos! [alejo14312024@gmail.com](mailto:alejo14312024@gmail.com)
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br><br>
 
 ## <img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/icons/skills.gif?raw=true" width=25px> **Mis Habilidades**
 <p align="center">
