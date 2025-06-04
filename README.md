@@ -4,14 +4,14 @@ const readmeContent = `
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&pause=1000&color=7B3BE1&center=true&width=650&height=60&lines=Donde+el+c%C3%B3digo+crea+escenarios+y+los+p%C3%ADxeles+cobran+vida;Experto+en+dise%C3%B1o+de+entornos+inmersivos;Unity+%7C+C%23+%7C+Shader+Magic&size=26" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=26&pause=1000&color=7B3BE1&center=true&vCenter=true&width=650&lines=Donde+el+c%C3%B3digo+crea+escenarios+y+los+p%C3%ADxeles+cobran+vida;Experto+en+dise%C3%B1o+de+entornos+inmersivos;Unity+%7C+C%23+%7C+Shader+Magic" alt="Typing SVG">
 </p>
 
 <div align="center">
-  <img src="https://github.com/alejodetes/alejo_dt.dev.github.io/blob/main/assets/careto.png?raw=true" width="250" style="border-radius: 50%; border: 5px solid #7B3BE1; box-shadow: 0 0 20px rgba(123, 59, 225, 0.6);">
+  <img src="https://raw.githubusercontent.com/alejodetes/alejo_dt.dev.github.io/main/assets/careto.png" width="250" style="border-radius: 50%; border: 5px solid #7B3BE1; box-shadow: 0 0 20px rgba(123, 59, 225, 0.6);" alt="Foto de perfil">
 </div>
 
-## <img src="https://github.com/alejodetes/alejo_dt.dev.github.io/blob/main/assets/icons/dungeon.gif?raw=true" width=35px> **Sobre Mí**
+## <img src="https://raw.githubusercontent.com/alejodetes/alejo_dt.dev.github.io/main/assets/icons/dungeon.gif" width=35px> **Sobre Mí**
 
 \`\`\`csharp
 public class AlejoDev : MonoBehaviour {
@@ -31,7 +31,7 @@ public class AlejoDev : MonoBehaviour {
 **Mi filosofía:**  
 _"Los mejores escenarios no se ven, se sienten. Cada vértice cuenta una historia y cada shader transmite emociones."_
 
-## <img src="https://github.com/alejodetes/alejo_dt.dev.github.io/blob/main/assets/icons/skills.gif?raw=true" width="30px"> **Mi Caja de Herramientas**
+## <img src="https://raw.githubusercontent.com/alejodetes/alejo_dt.dev.github.io/main/assets/icons/skills.gif" width="30px"> **Mi Caja de Herramientas**
 
 <div align="center">
 
@@ -43,7 +43,7 @@ _"Los mejores escenarios no se ven, se sienten. Cada vértice cuenta una histori
 
 </div>
 
-## <img src="https://github.com/alejodetes/alejo_dt.dev.github.io/blob/main/assets/icons/quest.gif?raw=true" width=30px> **Proyectos Destacados**
+## <img src="https://raw.githubusercontent.com/alejodetes/alejo_dt.dev.github.io/main/assets/icons/quest.gif" width=30px> **Proyectos Destacados**
 
 <div align="center">
 
@@ -55,7 +55,7 @@ _"Los mejores escenarios no se ven, se sienten. Cada vértice cuenta una histori
 
 </div>
 
-## <img src="https://github.com/alejodetes/alejo_dt.dev.github.io/blob/main/assets/icons/contact.gif?raw=true" width=30px> **¿Construimos Algo Épico Juntos?**
+## <img src="https://raw.githubusercontent.com/alejodetes/alejo_dt.dev.github.io/main/assets/icons/contact.gif" width=30px> **¿Construimos Algo Épico Juntos?**
 
 <div align="center">
 
@@ -67,7 +67,7 @@ _"Los mejores escenarios no se ven, se sienten. Cada vértice cuenta una histori
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github.com/alejodetes/alejo_dt.dev.github.io/blob/main/assets/icons/pixel-divider.gif?raw=true" width="80%">
+  <img src="https://raw.githubusercontent.com/alejodetes/alejo_dt.dev.github.io/main/assets/icons/pixel-divider.gif" width="80%">
 </div>
 
 <p align="center">
@@ -75,4 +75,4 @@ _"Los mejores escenarios no se ven, se sienten. Cada vértice cuenta una histori
 </p>
 `;
 
-console.log(readmeContent); // O exporta este string si lo vas a usar en otra parte
+console.log(readmeContent);
