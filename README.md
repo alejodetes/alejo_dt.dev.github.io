@@ -1,4 +1,4 @@
- <h1 align="center">
+<h1 align="center">
   <b>¡Hola! Soy Alejo Dev 🎮👨‍💻</b>
 </h1>
 <p align="center">
@@ -15,6 +15,7 @@
 ¡Apasionado creador digital con un pie en el código y otro en el arte! Me especializo en:
 
 - 🎮 **Desarrollo de juegos**: Creador de [Las 5 Etapas del Duelo](https://github.com/alejodetes/Las-5-etapas-del-duelo)
+- 🖌️ **Diseño gráfico**: Ilustraciones para el bar español ["Pa tu Boquita"](https://github.com/alejodetes/pa-tu-boquita-designs)
 - 💻 **Programación creativa**: Desarrollador de [mini-programas en C++](https://github.com/alejodetes/cpp)
 - 🌐 **Desarrollo web**: Mi [portafolio personal](https://github.com/alejodetes/web)
 - ✏️ **Arte digital**: Ilustraciones en [Instagram](https://www.instagram.com/alejo_dt_arts)
@@ -34,7 +35,8 @@
 - **Desarrollo de Juegos**:  
   ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-- **Arte Digital**:  
+- **Diseño Gráfico**:  
+  ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
   ![Medibang](https://img.shields.io/badge/MediBang-000000?style=for-the-badge&logo=medibang-paint&logoColor=white)
   ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
@@ -50,8 +52,9 @@
 | Proyecto | Descripción | Tecnologías | Enlace |
 |----------|-------------|-------------|--------|
 | **Las 5 Etapas del Duelo** | Juego narrativo en Unity | Unity, C# | [Repositorio](https://github.com/alejodetes/Las-5-etapas-del-duelo) |
+| **Diseños para "Pa tu Boquita"** | Ilustraciones para un bar español | Inkscape, Medibang | [Repositorio](https://github.com/alejodetes/pa-tu-boquita-designs) |
 | **Portafolio Web** | Mi sitio web personal | HTML, CSS, JS | [Repositorio](https://github.com/alejodetes/web) |
-| **Arte Digital** | Mis ilustraciones | Medibang Pro | [Instagram](https://www.instagram.com/alejo_dt_arts) |
+| **Arte Digital** | Mis ilustraciones personales | Medibang, Photoshop | [Instagram](https://www.instagram.com/alejo_dt_arts) |
 
 <br><br>
 
@@ -67,20 +70,20 @@
           <b>Las 5 Etapas del Duelo</b>
         </a>
       </td>
-      <!-- Ilustración 1 -->
+      <!-- Diseños Pa tu Boquita -->
+      <td align="center" width="33%">
+        <a href="https://github.com/alejodetes/pa-tu-boquita-designs">
+          <img src="https://github.com/alejodetes/pa-tu-boquita-designs/raw/main/preview.jpg?raw=true" width="100%" style="border-radius: 10px; border: 3px solid #7B3BE1;">
+          <br>
+          <b>Diseños para "Pa tu Boquita"</b>
+        </a>
+      </td>
+      <!-- Arte Digital -->
       <td align="center" width="33%">
         <a href="https://www.instagram.com/alejo_dt_arts">
           <img src="https://github.com/alejodetes/art-portfolio/raw/main/illustration1.jpg?raw=true" width="100%" style="border-radius: 10px; border: 3px solid #7B3BE1;">
           <br>
           <b>Ilustración Digital</b>
-        </a>
-      </td>
-      <!-- Ilustración 2 -->
-      <td align="center" width="33%">
-        <a href="https://www.instagram.com/alejo_dt_arts">
-          <img src="https://github.com/alejodetes/art-portfolio/raw/main/illustration2.jpg?raw=true" width="100%" style="border-radius: 10px; border: 3px solid #7B3BE1;">
-          <br>
-          <b>Diseño de Personaje</b>
         </a>
       </td>
     </tr>
