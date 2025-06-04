@@ -1,4 +1,4 @@
-<h1 align="center">
+ <h1 align="center">
   <b>¡Hola! Soy Alejo Dev 🎮👨‍💻</b>
 </h1>
 <p align="center">
@@ -10,25 +10,19 @@
 <br>
 
 ## 🤓 ☝ **Sobre mí**
-<picture> 
-<img align="right" src="https://github.com/alejodetes/alejo_dt.dev.github.io/blob/main/avatar.png" width="300">
-</picture>
+<img align="right" src="https://github.com/alejodetes/username/blob/main/assets/avatar.png?raw=true" width="250" style="border-radius: 50%; border: 3px solid #7B3BE1;">
 
 ¡Apasionado creador digital con un pie en el código y otro en el arte! Me especializo en:
 
-- 🎮 **Desarrollo de juegos**: Creador de [Las 5 Etapas del Duelo](https://github.com/alejodetes/Las-5-etapas-del-duelo), un juego narrativo que explora emociones humanas a través de mecánicas y herramientas digitales
-- 💻 **Programación creativa**: Desarrollador de [mini-programas en C++](https://github.com/alejodetes/cpp) que resuelven problemas con enfoques innovadores
-- 🌐 **Desarrollo web**: Creador de mi [portafolio personal](https://github.com/alejodetes/web) donde muestro mis proyectos 
-- ✨ **Arte digital**: Ilustrador en [Instagram](https://www.instagram.com/alejo_dt_arts) 
-- 🛍️ **Diseños únicos**: Vendo mis creaciones artísticas en [Redbubble](https://www.redbubble.com/people/alejoeldetes/shop)
+- 🎮 **Desarrollo de juegos**: Creador de [Las 5 Etapas del Duelo](https://github.com/alejodetes/Las-5-etapas-del-duelo)
+- 💻 **Programación creativa**: Desarrollador de [mini-programas en C++](https://github.com/alejodetes/cpp)
+- 🌐 **Desarrollo web**: Mi [portafolio personal](https://github.com/alejodetes/web)
+- ✏️ **Arte digital**: Ilustraciones en [Instagram](https://www.instagram.com/alejo_dt_arts)
+- 🛍️ **Diseños**: Mis creaciones en [Redbubble](https://www.redbubble.com/people/alejoeldetes/shop)
 
-📫 **Colaboraciones**: ¿Tienes un proyecto interesante? ¡Hablemos! [alejo14312024@gmail.com](mailto:alejo14312024@gmail.com)
-
-**Mi filosofía**: Creo que la tecnología y el arte deben trabajar juntos para contar historias memorables. Cada línea de código es un pincelazo en el lienzo digital.
+📫 **Colaboraciones**: [alejo14312024@gmail.com](mailto:alejo14312024@gmail.com)
 
 <br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/icons/skills.gif?raw=true" width=25px> **Mis Habilidades**
 <p align="center">
@@ -56,9 +50,42 @@
 | Proyecto | Descripción | Tecnologías | Enlace |
 |----------|-------------|-------------|--------|
 | **Las 5 Etapas del Duelo** | Juego narrativo en Unity | Unity, C# | [Repositorio](https://github.com/alejodetes/Las-5-etapas-del-duelo) |
-| **Mini Programas C++** | Soluciones algorítmicas | C++ | [Repositorio](https://github.com/alejodetes/cpp) |
 | **Portafolio Web** | Mi sitio web personal | HTML, CSS, JS | [Repositorio](https://github.com/alejodetes/web) |
 | **Arte Digital** | Mis ilustraciones | Medibang Pro | [Instagram](https://www.instagram.com/alejo_dt_arts) |
+
+<br><br>
+
+## 🎨 **Galería de Trabajos**
+<div align="center">
+  <table>
+    <tr>
+      <!-- Juego Unity -->
+      <td align="center" width="33%">
+        <a href="https://github.com/alejodetes/Las-5-etapas-del-duelo">
+          <img src="https://github.com/alejodetes/Las-5-etapas-del-duelo/raw/main/screenshots/gameplay1.png?raw=true" width="100%" style="border-radius: 10px; border: 3px solid #7B3BE1;">
+          <br>
+          <b>Las 5 Etapas del Duelo</b>
+        </a>
+      </td>
+      <!-- Ilustración 1 -->
+      <td align="center" width="33%">
+        <a href="https://www.instagram.com/alejo_dt_arts">
+          <img src="https://github.com/alejodetes/art-portfolio/raw/main/illustration1.jpg?raw=true" width="100%" style="border-radius: 10px; border: 3px solid #7B3BE1;">
+          <br>
+          <b>Ilustración Digital</b>
+        </a>
+      </td>
+      <!-- Ilustración 2 -->
+      <td align="center" width="33%">
+        <a href="https://www.instagram.com/alejo_dt_arts">
+          <img src="https://github.com/alejodetes/art-portfolio/raw/main/illustration2.jpg?raw=true" width="100%" style="border-radius: 10px; border: 3px solid #7B3BE1;">
+          <br>
+          <b>Diseño de Personaje</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br><br>
 
