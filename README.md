@@ -9,13 +9,14 @@
 
 <br>
 
-## <picture><img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/icons/palette.gif?raw=true" width=30px></picture> **Sobre mí**
+## 🤓 ☝ **Sobre mí**
 <picture> 
   <img align="right" src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/gifs/unity-dev.gif?raw=true" width=300px>
 </picture>
 
 - 🕹️ **Desarrollador Unity** creador de [Las 5 Etapas del Duelo](https://github.com/alejodetes/Las-5-etapas-del-duelo)
 - 💻 **Programador C++** con 15+ [mini-programas](https://github.com/alejodetes/cpp)
+- 🌐 Desarrollador web [Portafolio](https://github.com/alejodetes/web)
 - ✏️ **Artista digital** en [Instagram](https://www.instagram.com/alejo_dt_arts)
 - 🛍️ Vendo mis diseños en [Redbubble](https://www.redbubble.com/people/alejoeldetes/shop)
 - 📫 Colaboraciones: [alejo14312024@gmail.com](mailto:alejo14312024@gmail.com)
@@ -53,6 +54,7 @@
 |----------|-------------|-------------|--------|
 | **Las 5 Etapas del Duelo** | Juego narrativo en Unity | Unity, C# | [Repositorio](https://github.com/alejodetes/Las-5-etapas-del-duelo) |
 | **Mini Programas C++** | Soluciones algorítmicas | C++ | [Repositorio](https://github.com/alejodetes/cpp) |
+| **Portafolio Web** | Mi sitio web personal | HTML, CSS, JS | [Repositorio](https://github.com/alejodetes/web) |
 | **Arte Digital** | Mis ilustraciones | Medibang Pro | [Instagram](https://www.instagram.com/alejo_dt_arts) |
 
 <br><br>
