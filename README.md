@@ -15,7 +15,7 @@
 </picture>
 
 - 🕹️ **Desarrollador Unity** creador de [Las 5 Etapas del Duelo](https://github.com/alejodetes/Las-5-etapas-del-duelo)
-- 💻 **Programador C++** con 15+ [mini-programas](https://github.com/alejodetes/cpp)
+- 💻 **Programador C++** con [mini-programas](https://github.com/alejodetes/cpp)
 - 🌐 Desarrollador web [Portafolio](https://github.com/alejodetes/web)
 - ✏️ **Artista digital** en [Instagram](https://www.instagram.com/alejo_dt_arts)
 - 🛍️ Vendo mis diseños en [Redbubble](https://www.redbubble.com/people/alejoeldetes/shop)
@@ -30,12 +30,12 @@
 ## <img src="https://github.com/alejo-dt/alejo_dt.dev.github.io/blob/main/assets/icons/skills.gif?raw=true" width=25px> **Mis Habilidades**
 <p align="center">
 
-- **Desarrollo de Juegos**:  
-  ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
 - **Programación**:  
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+- **Desarrollo de Juegos**:  
+  ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 - **Arte Digital**:  
   ![Medibang](https://img.shields.io/badge/MediBang-000000?style=for-the-badge&logo=medibang-paint&logoColor=white)
